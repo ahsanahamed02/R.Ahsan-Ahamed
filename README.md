@@ -38,3 +38,6 @@
 
 ## 📊 GitHub Stats:
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanahamed02&show_icons=true&theme=radical)
+
+## 🔝 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanahamed02&layout=compact&theme=radical)
